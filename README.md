@@ -17,5 +17,5 @@ To create a simple stopwatch using HTML, CSS, and JavaScript, you'll follow thes
 
 4. **Testing and Debugging**: Test your stopwatch thoroughly to ensure it behaves as expected. Debug any issues that arise.
 
-Remember, this is a simplified explanation of the process. The actual implementation might involve additional steps and considerations depending on the specific requirements of your stopwatch.![Screenshot 2024-04-01 231329](https://github.com/AbhiSharmaNIT/Stop_Watch/assets/136017324/d44c5838-a27f-4700-9c0c-35d2000857bb)
+Remember, this is a simplified explanation of the process. The actual implementation might involve additional steps and considerations depending on the specific requirements of your stopwatch.!
 ![Screenshot 2024-04-01 231329](https://github.com/AbhiSharmaNIT/Stop_Watch/assets/136017324/fdf2dc43-d018-4ebf-b1ba-41cee4549b18)
